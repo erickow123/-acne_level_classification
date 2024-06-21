@@ -1,0 +1,15 @@
+Package :
+0. python 3.8
+1. tensorflow (V)
+2. Keras (V)
+3. numpy (V)
+4. pandas (V)
+5. imutils (V)
+6. scikit-learn (V)
+7. matplotlib (V)
+8. os 
+9. seaborn (V)
+
+10. flask (V)
+
+11. flask-cors (V)
